@@ -1,4 +1,4 @@
-package com.devsuperior.desafio01exceptions;
+package com.devsuperior.desafio01.resources.exceptions;
 
 import java.io.Serializable;
 import java.time.Instant;
